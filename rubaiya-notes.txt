@@ -1,0 +1,6 @@
+Rubaiya's Notes
+
+Ami Rubaiya. Ei file ta abcd folder e toiri korechi.
+
+- Aj ami git branch, clone ar rename shikhlam.
+- Prottoyi chhoto chhoto step e kaj korle boro project o shohoj hoye jay.
